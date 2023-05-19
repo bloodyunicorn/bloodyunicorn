@@ -3,12 +3,11 @@
  
 
 <div>
-<img  height="190em"  src="https://github-readme-stats.vercel.app/api?username=bloodyunicorn&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="190em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodyunicorn&layout=compact&langs_count=16&theme=nightowl"/>
+
+<img height="250em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodyunicorn&layout=compact&langs_count=16&theme=nightowl"/>
 
 </div>
 
-![Snake animation](https://github.com/bloodyunicorn/bloodyunicorn/blob/output/github-contribution-grid-snake.svg)
 
 
            
