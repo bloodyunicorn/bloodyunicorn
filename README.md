@@ -8,6 +8,7 @@
 
 </div>
 
+![Snake animation](https://github.com/bloodyunicorn/bloodyunicorn/blob/output/github-contribution-grid-snake.svg)
 
 
            
